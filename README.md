@@ -29,8 +29,8 @@ This project analyzes Bank of America's stock performance using historical price
 
 4. Returns Analysis
 
-    Daily Return: The percentage change in stock price from one day to the next.
-    Cumulative Return: The total return over a period, assuming all gains/losses are compounded over time
+   * Daily Return: The percentage change in stock price from one day to the next.
+   * Cumulative Return: The total return over a period, assuming all gains/losses are compounded over time
 
 ## Features:
     1. Data Collection: Retrieves BAC stock data from 2020 to 2025.
