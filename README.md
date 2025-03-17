@@ -23,10 +23,10 @@ This project analyzes Bank of America's stock performance using historical price
     Cumulative Return: The total return over a period, assuming all gains/losses are compounded over time
 
 ## Features:
-    Data Collection: Retrieves BAC stock data from 2020 to 2025.
-    Moving Averages: Calculates 20-day and 50-day moving averages to observe trends.
-    Daily & Cumulative Returns: Computes daily percentage changes and cumulative returns over time.
-    Visualization: Plots stock closing prices alongside moving averages for trend identification.
+    1. Data Collection: Retrieves BAC stock data from 2020 to 2025.
+    2. Moving Averages: Calculates 20-day and 50-day moving averages to observe trends.
+    3. Daily & Cumulative Returns: Computes daily percentage changes and cumulative returns over time.
+    4. Visualization: Plots stock closing prices alongside moving averages for trend identification.
 
 ## Tools Used:
     Python
