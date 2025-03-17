@@ -18,9 +18,9 @@ This project analyzes Bank of America's stock performance using historical price
 
 3. Moving Averages (MA)
 
-    20-Day Moving Average (20-MA): The average closing price of the stock over the past 20 trading days. Helps identify short-term trends.
-    50-Day Moving Average (50-MA): The average closing price over the past 50 trading days. Used for longer-term trend analysis.
-    Golden Cross & Death Cross: A bullish signal occurs when a short-term moving average crosses above a long-term moving average (Golden Cross), while a bearish signal occurs when the short-term average crosses below the long-term average (Death Cross).
+    * 20-Day Moving Average (20-MA): The average closing price of the stock over the past 20 trading days. Helps identify short-term trends.
+    * 50-Day Moving Average (50-MA): The average closing price over the past 50 trading days. Used for longer-term trend analysis.
+    * Golden Cross & Death Cross: A bullish signal occurs when a short-term moving average crosses above a long-term moving average (Golden Cross), while a bearish signal occurs when the short-term average crosses below the long-term average (Death Cross).
 
 4. Returns Analysis
 
