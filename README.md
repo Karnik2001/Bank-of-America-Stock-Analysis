@@ -1,6 +1,6 @@
 # Bank-of-America-Stock-Analysis
 
-This project analyzes Bank of America's stock performance using historical price data from Yahoo Finance.
+This project analyzes Bank of America's (BAC) stock performance using historical data from Yahoo Finance. It examines price movements, trends, and returns through moving averages and return calculations. Using Python-based analysis and visualization, the project provides insights into BAC’s historical behavior and potential trading signals.
 
 ## Terminologies Used in the Analysis
 1. Stock Price Data
