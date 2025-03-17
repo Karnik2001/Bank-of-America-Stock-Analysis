@@ -5,11 +5,11 @@ This project analyzes Bank of America's stock performance using historical price
 ## Terminologies Used in the Analysis
 1. Stock Price Data
 
-    Open Price: The price at which a stock starts trading at the beginning of a market session.
-    Close Price: The last traded price of a stock before the market closes for the day.
-    High & Low Prices: The highest and lowest prices at which the stock traded during a given period.
-    Adjusted Close Price: The closing price adjusted for corporate actions like dividends and stock splits.
-    Volume: The number of shares traded during a given period.
+    ## Open Price: The price at which a stock starts trading at the beginning of a market session.
+    ## Close Price: The last traded price of a stock before the market closes for the day.
+    ## High & Low Prices: The highest and lowest prices at which the stock traded during a given period.
+    ## Adjusted Close Price: The closing price adjusted for corporate actions like dividends and stock splits.
+    ## Volume: The number of shares traded during a given period.
 
 2. Moving Averages (MA)
 
