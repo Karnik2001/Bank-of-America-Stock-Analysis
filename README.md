@@ -2,6 +2,26 @@
 
 This project analyzes Bank of America's stock performance using historical price data from Yahoo Finance.
 
+## Terminologies Used in the Analysis
+1. Stock Price Data
+
+    Open Price: The price at which a stock starts trading at the beginning of a market session.
+    Close Price: The last traded price of a stock before the market closes for the day.
+    High & Low Prices: The highest and lowest prices at which the stock traded during a given period.
+    Adjusted Close Price: The closing price adjusted for corporate actions like dividends and stock splits.
+    Volume: The number of shares traded during a given period.
+
+2. Moving Averages (MA)
+
+    20-Day Moving Average (20-MA): The average closing price of the stock over the past 20 trading days. Helps identify short-term trends.
+    50-Day Moving Average (50-MA): The average closing price over the past 50 trading days. Used for longer-term trend analysis.
+    Golden Cross & Death Cross: A bullish signal occurs when a short-term moving average crosses above a long-term moving average (Golden Cross), while a bearish signal occurs when the short-term average crosses below the long-term average (Death Cross).
+
+3. Returns Analysis
+
+    Daily Return: The percentage change in stock price from one day to the next.
+    Cumulative Return: The total return over a period, assuming all gains/losses are compounded over time
+
 ## Features:
     Data Collection: Retrieves BAC stock data from 2020 to 2025.
     Moving Averages: Calculates 20-day and 50-day moving averages to observe trends.
