@@ -1,6 +1,6 @@
 # Bank-of-America-Stock-Analysis
 
-This project analyzes Bank of America's stock performance using historical price data from Yahoo Finance. The analysis includes:
+This project analyzes Bank of America's stock performance using historical price data from Yahoo Finance.
 
 ## Features:
     Data Collection: Retrieves BAC stock data from 2020 to 2025.
