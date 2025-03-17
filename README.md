@@ -43,3 +43,8 @@ This project analyzes Bank of America's (BAC) stock performance using historical
     Pandas & NumPy for data processing
     Matplotlib & Plotly for visualization
     yFinance for stock data retrieval
+
+
+# Citations
+https://blog.bytescrum.com/python-for-finance-analyzing-stock-data-with-pandas
+https://medium.com/@financial_python/building-a-macd-indicator-in-python-190b2a4c1777
